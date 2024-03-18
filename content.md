@@ -78,7 +78,7 @@ EDSAC, Universidad de Cambridge (50's)
 
 ## Dinámica Molecular
 
-* Nos permite estudiar el movimiento y comportamiento de moléculas.
+* Simular el movimiento y comportamiento de moléculas.
 * Efectos de fuerzas por molécula (distancias, ángulos) y entre ellas.
 * Campos de fuerzas
 
@@ -94,11 +94,20 @@ EDSAC, Universidad de Cambridge (50's)
 <img src="img/gmx_logo_blue.png" height="300px">
 
 
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+<div class="column">                           
+
 * LAMMPS: 90's, Sandia Laboratory, EU. 
 * Masivamente paralelizable (MPI, OpenMP, GPU)
 
+</div>
+
+<div class="column">                           
+
 <img src="img/logo.gif" height="100px">
+
 <img src="img/virus_bud.png" height="300px">
+</div>
 
 ---
 
@@ -192,6 +201,7 @@ EDSAC, Universidad de Cambridge (50's)
 </div>
 </div>
 
+---
 
 ## Beneficios del código abierto en QC
 
@@ -212,5 +222,5 @@ EDSAC, Universidad de Cambridge (50's)
 ### ¿Preguntas?
 ### https://linktr.ee/malmazo
 
-<img src="img/malmazo.png" height=200px)> 
+<img src="img/malmazoW.png" height=200px)> 
 

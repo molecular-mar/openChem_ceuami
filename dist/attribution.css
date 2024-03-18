@@ -1,0 +1,19 @@
+/* Attribution plugin: text along the right edge of the viewport */
+.attribution{
+  position: absolute;
+  top: auto;
+  bottom: 0%;
+  left: 50%;
+  right: auto;
+  font-size: 0.4em;
+  pointer-events: none;
+  text-align: center;
+  transform: translate( -50%, 23% ) scale( 1.6 ) rotate( 0deg );
+}
+ /* transform: translate( -50%, -50% ) scale( 1 ) rotate( 180deg );*/
+  /*writing-mode: horizontal-tb;*/
+
+/* Attribution plugin: activate pointer events for attribution text only */
+.attribution .content{
+  pointer-events: auto;
+}

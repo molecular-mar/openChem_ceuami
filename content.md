@@ -212,3 +212,5 @@ EDSAC, Universidad de Cambridge (50's)
 ### ¿Preguntas?
 ### https://linktr.ee/malmazo
 
+<img src="img/malmazo.png" height=200px)> 
+

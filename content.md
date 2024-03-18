@@ -10,7 +10,8 @@ Contacto: mrivera@izt.uam.mx
 
 ### Versión en linea
 
-<!-- <img src="img/DES2023QR.png" height=200px><br> -->
+<img src="img/qrCeua.png" height=300px>
+
 https://molecular-mar.github.io/openChem_ceuami
 
 
